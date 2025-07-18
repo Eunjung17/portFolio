@@ -23,7 +23,7 @@ const projects = [
 		title: 'Currently studying Data Structures and Algorithms',
 		site: 'https://docs.google.com/presentation/d/1cA7s0_ffhF_kt1Eg2CcZMxWlJd3EbZDSoJ97Rx2zOPM/edit?usp=sharing',
 		gitHub: 'https://github.com/Eunjung17/LeetCode-Solutions',
-		description: 'Collaborative task management tool with real-time updates',
+		description: 'A collaborative team task using LeetCode solutions for data structures and algorithms.',
 		image: '/code.jpg',
 	},
 ];
